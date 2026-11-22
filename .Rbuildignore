@@ -10,3 +10,4 @@ src/symbols[.]rds
 ^bookdown$
 ^inst/.*[.]R$
 
+^notes$
